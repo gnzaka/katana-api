@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "katana-assistant",
+  "private_key_id": "1de82bcbebf6d5b26acbf937545acb412b8113bc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDwT+rW5J4WL7Kd\n4zsJz6qlsj5Bnfen/xnRE4sHoqTT1rTzmIrvUFO9yrquC8Nxbd0C/8uArejdOmyA\n+7cml0bueQIbZKVFnuK3aFsOByURsF4j+JY68FYxXJX6xRPRfSUv4zchGUzuGd7y\nkLW5BdJVmvRMrquUU37vVi4OjamzEocCpRSwRF8rwEqcpqHRPN1hA7c42xJKsiX8\njCg9vhHKl0++e+AcXTxlAmy0pLuIuOAeXhbIoxxWEu0RII989U00v4Jt9Oij9RPR\nbZGd15r6EGqOFAxn4G4SS67URgyt0mqylL28gVIHrnCtIfAIDxVONO+1BBhFNMVy\ndmE414QvAgMBAAECggEAWMd1f0FDg/fIGZtOfs/o/8DrTguBaF+OlpaNONtl4FsE\nS7ARt9qprUadk9oFsLyBN2/vqxDUpBJG7pnPrmKZ0lUDKcKTajaKFG7poLOUBsZs\n6QYX3htXBHJreBLhwPVmTRw4jDJQIPCO1HcQo5OagoS19zRab/guv1XLuxWr2Vrq\nGRK0yegiXLR/ZSvgQwY87zXcAryzRCxWUEVQV2SpAlzaFOTyKHqqAtzPXEM6N3YN\neRVcKT/ao3G4JSmoiYXUJ7VZZ81IRZjR1klEXMlkpO4eCjk+7IJxB6QBLgpSXL8y\nkeTEiF9a23g3bLLsjP4S3ctCyKPJz4H7I9oa5+UUjQKBgQD8odVMLN7ap8kimv8n\nqmPxBV0qOcZrTh9/f8dxo1PsnA38F5ZtnLuVnWCQZCsd+HvYFvuG4Rv4Dgr5di1w\nmVpzGgKLM375mJ1J0fdtzHgv3SyaaJ2q5tO2JSGSobz+3PfG7cL8viyaVEZFt/Xl\n8feHwKKGoj5o6nbZ3yzBuetoEwKBgQDzhAoPfJJ6gmbtdDhp+FcB3BgeRm2nkyS9\nNBBSt/JE9HJ5BtA5yH1tQ9n7eUGOGQOiRgDCk6Hk0klEsyubfueHbhFYo+stVtuZ\nTk01V8UGawkosL50GEn7F/iMf3ksck4oMgzshIvzeCRIJulMAfFiVy+S7fW4iikv\nyr4xaPCu9QKBgCKthD3kmuKgzXc2l3e2Z+mZtuQo8hegraouvA3ZQZflA/Zqtndt\nYEJ1S+AGH/UJOta6sOQe2lv+cXs0waAHLOdH1rmM5A0W6eBMNg6YVpcbYRgA7EOd\nU8pY5nbeRLcnVcu0r2NKJ403rD29tr9Nq5Cy3JxmgPKd3Jqji907zBiJAoGBAMMz\nVrUvUGOv4D376bTYgzZUbWjnX8LyaoLYFzWXijbIFHL7iTKoihJqT3QLsQbs+kK8\nBqPyn9XC00SksxIEWifvjSwWydAgTgvH/pAB+Ue5yS+67hA14CfNAUnubP256vjB\nliaJ4X2bEspblqt86ze/V71ZzpzM81MCHA+TZUt5AoGAfCkaC+q9dAO9BykB63A2\nLL7xqIgFKkzZIQI84cz3hIgigekAZBG+6ziZCIzbLv9mgstzzCF93TYFwYjGua1Y\n7W1mKXMRlMcoIKTDrNtU9EWjU3UIE4lAnx3beQOoGc1GmkXIMhnzu7fqjfKN2F/N\nKgZJnZ0gH86JGxEvcSRlwrw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "katana-service@katana-assistant.iam.gserviceaccount.com",
+  "client_id": "113621436188784197977",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/katana-service%40katana-assistant.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
